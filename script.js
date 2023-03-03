@@ -8,4 +8,4 @@ const h3 = document.querySelector("#wordCount");
 		h3.textContent = match;
 	}
 
-text.addEventListener("input",handeleInput);
+text.addEventListener("input", handeleInput);
